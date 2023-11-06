@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        helloLabel.text = "G"
+        helloLabel.text = "G1"
     }
 
 
